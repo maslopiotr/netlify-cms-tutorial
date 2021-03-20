@@ -1,5 +1,5 @@
 ---
-path: Second post
+path: second-post
 date: 2021-03-20T19:49:22.261Z
 title: Second post
 ---
